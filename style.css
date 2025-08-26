@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  padding: 1rem;
+  transition: background 0.3s, color 0.3s;
+}
+
+h1 {
+  color: #333;
+}
+
+.dark-mode {
+  background: #222;
+  color: #f4f4f4;
+}
+
+button {
+  margin: 0.5rem 0;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
